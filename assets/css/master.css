@@ -21428,7 +21428,7 @@ img {
   text-align: right;
 }
 .footer__top img {
-  margin-bottom: -380px;
+  margin-bottom: -480px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer__top img {
@@ -34892,4 +34892,3 @@ ul.mega-menu-2.woocomerce-megamenu {
 .dark.dir-rtl .portfolio__about .brand-title-wrap {
   border-left: 1px solid var(--secondary);
 }
-/*# sourceMappingURL=master.css.map */
